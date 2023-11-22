@@ -1,4 +1,3 @@
-import 'package:backend_app/model/note.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
 
